@@ -10,6 +10,9 @@ This project incentivizes users to create and curate playlists by rewarding crea
 
 ## Contract Address
 0x732F05912B43730DFb157B496AF1BB9f1FF74A54
+![image](https://github.com/user-attachments/assets/ce8ad2d8-fc1a-42ea-bd8c-5431c304a231)
+
+
 
 ## Project Vision
 The vision is to foster a community-driven platform that values creativity and engagement. By introducing rewards for popular playlists, we aim to create a thriving ecosystem where users actively participate in discovering and sharing content.
